@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Linc2301
 - 👀 I’m interested in -Fullstack dev
 - 🌱 I’m currently learning -Python/Odoo,Javascript/React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on familiar team.
+- 📫 How to reach me -yehtutnaung023@gmail.com
 - 😄 Pronouns: -Linc23
 - ⚡ Fun fact: ...
 <!---
